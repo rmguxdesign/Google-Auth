@@ -4,7 +4,7 @@ Criando uma interface de autenticação Google + Firebase!
 
 Projeto desenvolvido com:
 
-1.ReactJs + Vite
+1.ReactJs (TypeScript) + Vite
 
 2.Utilização da biblioteca phosphor-icon
 
