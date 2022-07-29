@@ -1,13 +1,15 @@
 # Google-Auth
 
-Criando uma interface de autenticação Google + Firebase
+Criando uma interface de autenticação Google + Firebase!
 
-ReactJs + Vite
+Projeto desenvolvido com:
 
-Utilização da biblioteca phosphor-icon
+1.ReactJs + Vite
 
-Estilização com Scss
+2.Utilização da biblioteca phosphor-icon
 
-Firebase
+3.Estilização com Scss
 
-Autenticação com o Google através do Firebase
+4.Firebase
+
+5.Autenticação com o Google através do Firebase
