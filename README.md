@@ -6,7 +6,7 @@ Projeto desenvolvido com:
 
 1.ReactJs (TypeScript) + Vite
 
-2.Utilização da biblioteca phosphor-icon
+2.Utilização da biblioteca phosphor-icons
 
 3.Estilização com Scss
 
